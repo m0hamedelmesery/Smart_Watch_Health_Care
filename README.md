@@ -9,6 +9,7 @@ This project is part of my personal portfolio, showcasing my skills in data anal
 - [Introduction](#introduction)
 - [Data Collection](#data-collection)
 - [Data Analysis](#data-analysis)
+- [Results] (#Results)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
@@ -28,6 +29,10 @@ The data analysis process includes the following steps:
 2. **Exploratory Data Analysis (EDA):** Understanding the data through descriptive statistics and visualizations.
 3. **Feature Engineering:** Creating relevant features for analysis.
 4. **Visualization:** Generating plots and dashboards to visualize health metrics and analysis results.
+
+## Results
+
+The Visualizations & Results are shown in the results Folder 
 
 ## Contributing
 
