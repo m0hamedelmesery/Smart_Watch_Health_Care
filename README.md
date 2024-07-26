@@ -9,7 +9,7 @@ This project is part of my personal portfolio, showcasing my skills in data anal
 - [Introduction](#introduction)
 - [Data Collection](#data-collection)
 - [Data Analysis](#data-analysis)
-- [Results] (#Results)
+- [Results](#Results)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
